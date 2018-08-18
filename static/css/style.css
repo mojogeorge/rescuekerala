@@ -42,8 +42,8 @@ a.home-button{
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     text-decoration: none;
-    width: 230px;
-    height: 230px;
+    width: 180px;
+    height: 180px;
     vertical-align: top;
     display: inline-flex;
     justify-content: center;
@@ -54,12 +54,12 @@ a.home-button:hover{
     color:#FFFFFF;
 }
     a.home-button .glyphicon{
-        font-size: 5rem;
+        font-size: 4rem;
         display: block;
         margin-bottom: 10px;
     }
     a.home-button .text{
-        font-size: 2rem;
+        font-size: 1.7rem;
         font-weight: 500;
         text-transform: uppercase;
         display:inline-block;
@@ -68,7 +68,7 @@ a.home-button:hover{
         margin-top:7px;
         padding-top:7px;
         border-top: 1px dotted #555555;
-        font-size: 1.4rem;
+        font-size: 1.2rem;
         font-weight: bold;
         text-transform: uppercase;
         display:inline-block;
